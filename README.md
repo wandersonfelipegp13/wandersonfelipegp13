@@ -22,5 +22,7 @@ synthwave
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
 </div>
+  
+![Snake animation](https://github.com/wandersonfelipegp13/wandersonfelipegp13/blob/output/github-contribution-grid-snake.svg)
+
