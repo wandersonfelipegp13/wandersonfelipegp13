@@ -26,3 +26,4 @@ synthwave
   
 ![Snake animation](https://github.com/wandersonfelipegp13/wandersonfelipegp13/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://komarev.com/ghpvc/?username=wandersonfelipegp13&color=blue" alt="wandersonfelipegp13"> 
