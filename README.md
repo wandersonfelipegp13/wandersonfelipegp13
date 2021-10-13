@@ -7,6 +7,7 @@ tokyonight
 gruvbox
 synthwave
 -->
+<a href="https://www.linkedin.com/in/wanderson-felipe/">
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersonfelipegp13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
@@ -39,3 +40,4 @@ synthwave
 <!---->
 ![moe](https://count.getloli.com/get/@wandersonfelipegp13?theme=moebooru)
 
+</a>
