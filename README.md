@@ -10,8 +10,8 @@ synthwave
 <a href="https://www.linkedin.com/in/wanderson-felipe/" target=_blank style="text-decoration: none;">
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersonfelipegp13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonfelipegp13&layout=compact&langs_count=16&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersonfelipegp13&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonfelipegp13&layout=compact&langs_count=16&theme=synthwave">
 <div>
 
 <div style="display: inline_block"><br>
