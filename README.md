@@ -38,8 +38,9 @@ synthwave
 
 ![Snake animation](https://github.com/wandersonfelipegp13/wandersonfelipegp13/blob/output/github-contribution-grid-snake.svg)
 
-<!---->
+<!--
 ![moe](https://count.getloli.com/get/@wandersonfelipegp13?theme=moebooru)
+-->
 
 </a>
 
