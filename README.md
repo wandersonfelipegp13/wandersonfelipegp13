@@ -1,23 +1,17 @@
 <h1> 👋 What's up, people?! </h1>
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
-
 <p align="justify">
-    Sou Técnico em Informática pelo Instituto Federal Goiano - Campus Urutaí, e atualmente curso o último período (8º) 
+    Técnico em Informática pelo Instituto Federal Goiano - Campus Urutaí, e atualmente cursando o último período (8º) 
     do curso de Bacharelado em Sistemas de Informação, no mesmo campus. 
     Desenvolvo em Java (Spring), Javascript (React.js), Android, MySQL e Firebase, porém também tenho 
     experiência com C, PHP e Python.
 </p>
 
-<div>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=515151" alt="React.js">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">  
-        <img src="https://img.shields.io/badge/MySQL-0074A3?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/Firebase-ffcc30?style=for-the-badge&logo=firebase&logoColor=515151" alt="Firebase">
-    </a>
-<div>
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![React.js Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=515151)](#)
+[![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-0074A3?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Firebase Badge](https://img.shields.io/badge/Firebase-ffcc30?style=for-the-badge&logo=firebase&logoColor=515151)](#)
      
 <h3> 🌎 Contato </h3>
 
