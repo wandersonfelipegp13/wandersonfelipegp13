@@ -21,10 +21,8 @@
      
 <h3> 🌎 Contato </h3>
 
-<a href="https://www.linkedin.com/in/wanderson-felipe/">
-    <img src="https://img.shields.io/badge/LinkedIn-0b66c3?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/wandersonfelipeplus13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wandersonfelipeplus13@gmail.com">
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0b66c3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderson-felipe/)](https://www.linkedin.com/in/wanderson-felipe/)
+[![Gmail Badge](https://img.shields.io/badge/wandersonfelipeplus13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wandersonfelipeplus13@gmail.com)](mailto:wandersonfelipeplus13@gmail.com)
 
 <!--
 <h3></h3>
