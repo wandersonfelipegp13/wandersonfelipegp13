@@ -19,12 +19,14 @@
     </a>
 <div>
      
-<h3> 🌎 Onde me encontrar </h3>
+<h3> 🌎 Contato </h3>
 
 <a href="https://www.linkedin.com/in/wanderson-felipe/">
-    <img src="https://img.shields.io/badge/LinkedIn-0b66c3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0b66c3?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/wandersonfelipeplus13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wandersonfelipeplus13@gmail.com">
 </a>
 
+<!--
 <h3></h3>
 
 <div>
@@ -35,7 +37,8 @@
          height="180em" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=wandersonfelipegp13&layout=compact&langs_count=16">
 </div>
-  
+-->
+
 <!--
 ![Snake animation](https://github.com/wandersonfelipegp13/wandersonfelipegp13/blob/output/github-contribution-grid-snake.svg)
 -->
