@@ -1,10 +1,9 @@
 <h1> 👋 What's up, people?! </h1>
 
 <p align="justify">
-    Técnico em Informática pelo Instituto Federal Goiano - Campus Urutaí, e atualmente cursando o último período (8º) 
-    do curso de Bacharelado em Sistemas de Informação, no mesmo campus. 
-    Desenvolvo em Java (Spring), Javascript (React.js), Android, MySQL e Firebase, porém também tenho 
-    experiência com C, PHP e Python.
+    Bacharelando em Sistemas de Informação e Técnico em Informática. 
+    Trabalho com Java, Spring, JUnit, Javascript, Angular, React, Next.js, Node, 
+    Android, Python, Django, PHP, C, MySQL, PostgreSQL, Firebase, Docker e RabbitMQ. 
 </p>
 
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
