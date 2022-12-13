@@ -1,9 +1,13 @@
 <h1> 👋 What's up, people?! </h1>
 
 <p align="justify">
-    Bacharelando em Sistemas de Informação e Técnico em Informática. 
-    Trabalho com Java, Spring, JUnit, Javascript, Angular, React, Next.js, Node, 
-    Android, Python, Django, PHP, C, MySQL, PostgreSQL, Firebase, Docker e RabbitMQ. 
+    Bacharelando em Sistemas de Informação, e Técnico em Informática. 
+    Trabalho principalmente com Java e Javascript, usando Spring e JUnit, 
+    para o back-end, e Angular para o front-end. Para o mobile utilizo o 
+    Android e os banco de dados que domino são MySQL e Firebase. 
+    Utilizo o Docker para o desenvolvimento.
+    Já desenvolvi alguns projetos em outras tecnologias como: Node, React, 
+    Next.js, Python, Django, PHP, C, PostgreSQL e RabbitMQ. 
 </p>
 
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
