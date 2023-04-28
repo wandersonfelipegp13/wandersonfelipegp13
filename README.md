@@ -1,6 +1,7 @@
 <h1> 👋 What's up, people?! </h1>
 
 <p align="justify">
+    Estagiário em Engenharia de Dados na <a href="https://compass.uol">Compass UOL</a>.
     Bacharelando em Sistemas de Informação, e Técnico em Informática. 
     Trabalho principalmente com Java e Javascript, usando Spring e JUnit, 
     para o back-end, e Angular para o front-end. Para o mobile utilizo o 
