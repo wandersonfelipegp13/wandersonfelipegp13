@@ -10,7 +10,7 @@
 [![Angular Badge](https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=FFF)](#)
 [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-0074A3?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Firebase Badge](https://img.shields.io/badge/Firebase-ffcc30?style=for-the-badge&logo=firebase&logoColor=515151)](#)
+[![Firebase Badge](https://img.shields.io/badge/Firebase-ffcc30?style=for-the-badge&logo=firebase&logoColor=313131)](#)
 
 <!-- [![React.js Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=515151)](#) -->
 
