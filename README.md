@@ -1,7 +1,7 @@
 <h1> 👋 What's up, people?! </h1>
 
 <p align="justify">
-    Bacharelando em Sistemas de Informação e Técnico em Informática. Trabalho principalmente com Java e Javascript, 
+    Bacharel em Sistemas de Informação e Técnico em Informática. Trabalho principalmente com Java e Javascript, 
     usando Spring, Angular e Android. Os banco de dados que domino são MySQL e Firebase. 
     Também tenho conhecimento em Linux e Docker. 
 </p>
